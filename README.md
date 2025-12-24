@@ -1,158 +1,226 @@
 # Hey! I am TheD0ubleC! You can call me YiYi!
 
-## 🌍 Language Navigation  
-- [English (current)](#english)  
+## Language Navigation
+
+- [English (current)](#english)
 - [中文 (点我！)](#中文)
 
 ---
 
-# English  
+# English
 
-## 🌱 About Me  
+## About Me
 
-- 🔧 **Currently focused on:** Developing a groundbreaking AI product (NeoAI)  
-- 🐾 **I have a cat named Rommy**, who has supported me through tough times. Here’s her domain: **Rommy.cat**  
-- 🤔 **Fields I’m studying:** Math algorithms (For a pure arts student like me, math is a nightmare!)  
-- 💬 Feel free to talk with me about: **Language design, cats, and creative tech ideas!**  
-- 📢 Find me here:  
-  - QQ: 2504214815  
-  - WeChat: TheD0ubleC  
-  - X (Twitter): @TheD0ubleC  
-  - Instagram: @NyakoCyan  
-  - Facebook: [My Profile](https://www.facebook.com/share/1EyLr3K251/?mibextid=wwXIfr)  
-- ⚡ Fun fact: I’ve been around for **15 years**! Born in 2009!  
+## What I Am Mainly Working On
+
+### Flexia
+
+A **static, strongly-specified, cross-platform** programming language
+
+- Implemented in **C#**
+- Self-developed VM / standard library / UI system
+- Goal: building a programming language ecosystem that can evolve long-term
+
+Hello World in Flexia:
+
+```Flexia
+Get IO.Console;
+Function void Main() {
+    IO.Console.PrintLine("Hello World!");
+}
+```
+
+> This is the project I have invested the most time in, and the one with the deepest technical depth.
+
+- **Other projects:**
+
+  - [QQSafeChat (A very safe QQ chatbot integration)](https://github.com/TheD0ubleC/QQSafeChat)
+  - [StickerSelectors (An emoji selector tool developed for QQSafeChat, also usable as an external service)](https://github.com/TheD0ubleC/StickerSelectors)
+
+- **I have a cat named Rommy. I really owe her a lot. This is her domain:** [Rommy.cat](rommy.cat)
+
+- **Currently learning:** mathematical algorithms (wtf man?you fking kill me,if i were to study that)
+
+- **Fields I am familiar with:**
+
+  - Web development
+  - Compiler theory
+  - UI / UX design
+  - Backend development
+  - And more, but I will not list everything here
+
+- **Where to find me:**
+
+  - QQ: 2504214815
+  - WeChat: TheD0ubleC
+  - Instagram: @NyakoCyan
+
+- Did you know? I have existed in this world for **16 years** — born in 2009.
 
 ---
 
-## ✨ GitHub Data Center  
+## GitHub Data Center
 
-### 🔥 Consistent Streaks  
+### Contribution Streak
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=TheD0ubleC&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📊 Most Used Languages  
+### Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheD0ubleC&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🛠️ My Toolbox  
+### Languages I Use
 
-### 👨‍💻 Languages  
+![Flexia](https://img.shields.io/badge/Flexia-ff681f?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![VB](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
-![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![VB](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Tools and Frameworks  
+### Tools & Frameworks
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) (For C# and VB development)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) (Version control)  
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) (3D Game engine)  
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) (for C# and VB development)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) (version control)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) (3D game engine)
 
-### 🚀 Languages I’m Exploring  
+### Currently Learning
 
-![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-## 🏆 Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheD0ubleC&theme=radical&margin-w=15&hide_border=true" alt="Trophies" />
 </p>
 
 ---
 
-## ✨ Dynamic Content  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always%20love%20you%20~%20Rommy;What's%20up?;I'm%20YiYi;&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hiii~;I'm YiYi" alt="Typing SVG" />
 </p>
 
 ---
 
-# 中文  
+# 中文
 
-## 🌱 关于我  
+## 关于我
 
-- 🔧 **现在战绩：** 开发一款跨时代的AI产品（[NeoAI](https://github.com/TheD0ubleC/NeoAI)）  
-- 🐾 **我有一只名叫Rommy的猫，陪我走出了困境，这是属于她的域名：**[Rommy.cat](rommy.cat)**  
-- 🤔 **我正在学习的领域：** 数学算法（让纯文科生学数学？那你杀了我吧！）  
-- 💬 欢迎和我聊：**语言设计，猫咪，以及技术创意！**  
-- 📢 找到我的地方：  
-  - QQ：2504214815  
-  - WeChat：TheD0ubleC  
-  - X（Twitter）：@TheD0ubleC  
-  - Instagram：@NyakoCyan  
-  - Facebook：[我](https://www.facebook.com/share/1EyLr3K251/?mibextid=wwXIfr)  
-- ⚡ 有趣的事实：我已经存在了**15年！**2009年出生！  
+## 我正在做的最重要的事情
+
+### Flexia
+
+一门 **静态、强规范、跨平台** 的编程语言
+
+- 使用 **C#** 实现
+- 自研 VM / 标准库 / UI 系统
+- 目标：构建一个真正可长期演进的语言生态
+
+它的 HelloWorld：
+
+```Flexia
+Get IO.Console;
+Function void Main() {
+    IO.Console.PrintLine("Hello World!");
+}
+```
+
+> 这是我投入时间最长 技术深度最高的项目
+
+- **其他项目：**
+
+  - [QQSafeChat（最安全的 QQ 聊天机器人接入）](https://github.com/TheD0ubleC/QQSafeChat)
+  - [StickerSelectors（为了 QQSafeChat 开发的表情包选取工具，外部也可接入此服务）](https://github.com/TheD0ubleC/StickerSelectors)
+
+- **我有一只名叫 Rommy 的猫，真该谢谢她的，这是她的域名：**[Rommy.cat](rommy.cat)
+
+- **我正在学习的领域：** 数学算法（让文科生学数学？那你杀了我吧！）
+
+- **我会的领域：**
+
+  - Web 开发
+  - 编译原理
+  - UI/UX 设计
+  - 后端开发
+  - 还有更多就不细讲啦
+
+- 找到我的地方：
+
+  - QQ：2504214815
+  - WeChat：TheD0ubleC
+  - Instagram：@NyakoCyan
+
+- 你知道吗？我已经在这个世界上存在了**16 年！**2009 年出生！
 
 ---
 
-## ✨ GitHub数据中心  
+## GitHub 数据中心
 
-### 🔥 持续记录  
+### 持续记录
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=TheD0ubleC&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📊 最常使用的语言  
+### 最常使用的语言
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheD0ubleC&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🛠️ 我的工具箱  
+### 我会这些！
 
-### 👨‍💻 语言  
+![Flexia](https://img.shields.io/badge/Flexia-ff681f?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![VB](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
-![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![VB](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 工具和框架  
+### 工具和框架
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) (用于C#和VB开发)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) (版本控制)  
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) (3D游戏引擎)  
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) (用于 C#和 VB 开发)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) (版本控制)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) (3D 游戏引擎)
 
-### 🚀 正在探索的语言  
+### 我还在学这些
 
-![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-## 🏆 成就之兴  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheD0ubleC&theme=radical&margin-w=15&hide_border=true" alt="Trophies" />
 </p>
 
 ---
 
-## ✨ 动态内容  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%E6%B0%B8%E8%BF%9C%E7%88%B1%E4%BD%A0~%20Rommy%20;%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F;%E6%88%91%E6%98%AFYiYi;&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hiii~;I'm YiYi" alt="Typing SVG" />
 </p>
-
