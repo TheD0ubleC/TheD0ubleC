@@ -11,6 +11,8 @@
 
 ## About Me
 
+<img src="https://metrics.lecoq.io/TheD0ubleC?template=classic&languages=1&lines=1&repositories=1" />
+
 ## What I Am Mainly Working On
 
 ### Flexia
@@ -64,13 +66,13 @@ Function void Main() {
 ### Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TheD0ubleC&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=TheD0ubleC" alt="GitHub Streak" />
 </p>
 
 ### Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheD0ubleC&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=TheD0ubleC" alt="Top Languages" />
 </p>
 
 ---
@@ -120,12 +122,6 @@ Function void Main() {
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheD0ubleC&theme=radical&margin-w=15&hide_border=true" alt="Trophies" />
-</p>
-
----
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hiii~;I'm YiYi" alt="Typing SVG" />
 </p>
 
@@ -134,6 +130,8 @@ Function void Main() {
 # 中文
 
 ## 关于我
+
+<img src="https://metrics.lecoq.io/TheD0ubleC?template=classic&languages=1&lines=1&repositories=1" />
 
 ## 我正在做的最重要的事情
 
@@ -188,13 +186,13 @@ Function void Main() {
 ### 持续记录
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TheD0ubleC&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=TheD0ubleC" alt="GitHub Streak" />
 </p>
 
 ### 最常使用的语言
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheD0ubleC&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=TheD0ubleC" alt="Top Languages" />
 </p>
 
 ---
@@ -240,12 +238,6 @@ Function void Main() {
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheD0ubleC&theme=radical&margin-w=15&hide_border=true" alt="Trophies" />
-</p>
 
 ---
 
