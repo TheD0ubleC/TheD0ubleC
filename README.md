@@ -37,7 +37,7 @@ Function void Main() {
 - **Other projects:**
 
   - [QQSafeChat (A very safe QQ chatbot integration)](https://github.com/TheD0ubleC/QQSafeChat)
-  - [StickerSelectors (An emoji selector tool developed for QQSafeChat, also usable as an external service)](https://github.com/TheD0ubleC/StickerSelectors)
+  - [StickerSelector (An emoji selector tool developed for QQSafeChat, also usable as an external service)](https://github.com/TheD0ubleC/StickerSelector)
 
 - **I have a cat named Rommy. I really owe her a lot. This is her domain:** [Rommy.cat](rommy.cat)
 
@@ -157,7 +157,7 @@ Function void Main() {
 - **其他项目：**
 
   - [QQSafeChat（最安全的 QQ 聊天机器人接入）](https://github.com/TheD0ubleC/QQSafeChat)
-  - [StickerSelectors（为了 QQSafeChat 开发的表情包选取工具，外部也可接入此服务）](https://github.com/TheD0ubleC/StickerSelectors)
+  - [StickerSelector（为了 QQSafeChat 开发的表情包选取工具，外部也可接入此服务）](https://github.com/TheD0ubleC/StickerSelector)
 
 - **我有一只名叫 Rommy 的猫，真该谢谢她的，这是她的域名：**[Rommy.cat](rommy.cat)
 
