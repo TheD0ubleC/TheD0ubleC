@@ -1,9 +1,13 @@
-# Hey! I am TheD0ubleC! You can call me YiYi!
+# TheD0ubleC (YiYi)
+
+> Building **Kinal** — a full programming language ecosystem from scratch
+
+---
 
 ## Language Navigation
 
-- [English (current)](#english)
-- [中文 (点我！)](#中文)
+* [English](#english)
+* [中文](#中文)
 
 ---
 
@@ -11,119 +15,66 @@
 
 ## About Me
 
-<img src="https://metrics.lecoq.io/TheD0ubleC?template=classic&languages=1&lines=1&repositories=1" />
+* Creator of **Kinal** — a statically typed, compiled programming language
+* Focused on systems programming, performance, and language design
+* Cat owner (Rommy)
+* Currently diving into mathematical algorithms
 
-## What I Am Mainly Working On
+---
 
-### Flexia
+## What I'm Building
 
-A **static, strongly-specified, cross-platform** programming language
+### Kinal
 
-- Implemented in **C#**
-- Self-developed VM / standard library / UI system
-- Goal: building a programming language ecosystem that can evolve long-term
+A modern systems programming language built from scratch.
 
-Hello World in Flexia:
+**Core Highlights:**
 
-```Flexia
+* Native compilation + KinalVM bytecode (dual execution model)
+* LLVM-based backend
+* Full toolchain:
+
+  * Compiler
+  * Virtual Machine (KinalVM)
+  * Formatter
+  * Package Manager
+  * LSP Server
+* Three-tier safety model: `Safe` / `Trusted` / `Unsafe`
+* Self-hosted ecosystem (the website is built using Kinal)
+
+```kinal
+Unit App;
 Get IO.Console;
-Function void Main() {
-    IO.Console.PrintLine("Hello World!");
+
+Static Function int Main()
+{
+    IO.Console.PrintLine("Hello, Kinal!");
+    Return 0;
 }
 ```
 
-> This is the project I have invested the most time in, and the one with the deepest technical depth.
+Explore Kinal:
 
-- **Other projects:**
-
-  - [QQSafeChat (A very safe QQ chatbot integration)](https://github.com/TheD0ubleC/QQSafeChat)
-  - [StickerSelector (An emoji selector tool developed for QQSafeChat, also usable as an external service)](https://github.com/TheD0ubleC/StickerSelector)
-
-- **I have a cat named Rommy. I really owe her a lot. This is her domain:** [Rommy.cat](rommy.cat)
-
-- **Currently learning:** mathematical algorithms (wtf man?you fking kill me,if i were to study that)
-
-- **Fields I am familiar with:**
-
-  - Web development
-  - Compiler theory
-  - UI / UX design
-  - Backend development
-  - And more, but I will not list everything here
-
-- **Where to find me:**
-
-  - QQ: 2504214815
-  - WeChat: TheD0ubleC
-  - Instagram: @NyakoCyan
-
-- Did you know? I have existed in this world for **16 years** — born in 2009.
+* Website: [https://kinal.org](https://kinal.org)
+* Repository: [https://github.com/Kinal-Lang/Kinal](https://github.com/Kinal-Lang/Kinal)
+* Organization: [https://github.com/Kinal-Lang](https://github.com/Kinal-Lang)
 
 ---
 
-## GitHub Data Center
+## Fun & Personal
 
-### Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TheD0ubleC" alt="GitHub Streak" />
-</p>
-
-### Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=TheD0ubleC" alt="Top Languages" />
-</p>
+* My birthday is April 21, 2009, and I hope to receive a PR that fixes all the problems in the project as my birthday present on that day.
+* I have a cat named **Rommy** — I owe her a lot
+* Her domain: [http://rommy.cat](http://rommy.cat)
+* "If I wanted to suffer, I would’ve just touched grass"
 
 ---
 
-### Languages I Use
-
-![Flexia](https://img.shields.io/badge/Flexia-ff681f?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![VB](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Frameworks
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) (for C# and VB development)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) (version control)
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) (3D game engine)
-
-### Currently Learning
-
-![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+## GitHub Stats
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hiii~;I'm YiYi" alt="Typing SVG" />
-</p>
+## Tech Stack
 
 ---
 
@@ -131,116 +82,56 @@ Function void Main() {
 
 ## 关于我
 
-<img src="https://metrics.lecoq.io/TheD0ubleC?template=classic&languages=1&lines=1&repositories=1" />
+* Kinal 编程语言的创建者
+* 专注系统编程、性能与语言设计
+* 有一只猫叫 Rommy
+* 正在学习数学算法
 
-## 我正在做的最重要的事情
+---
 
-### Flexia
+## 我正在构建
 
-一门 **静态、强规范、跨平台** 的编程语言
+### Kinal
 
-- 使用 **C#** 实现
-- 自研 VM / 标准库 / UI 系统
-- 目标：构建一个真正可长期演进的语言生态
+一门从零构建的现代系统编程语言。
 
-它的 HelloWorld：
+**核心特点：**
 
-```Flexia
+* 原生编译 + KinalVM 字节码（双执行模式）
+* 基于 LLVM 后端
+* 完整工具链：编译器 / 虚拟机 / 格式化器 / 包管理 / LSP
+* 三级安全模型：`Safe` / `Trusted` / `Unsafe`
+* 官方网站由 Kinal 本身构建
+
+```kinal
+Unit App;
 Get IO.Console;
-Function void Main() {
-    IO.Console.PrintLine("Hello World!");
+
+Static Function int Main()
+{
+    IO.Console.PrintLine("Hello, Kinal!");
+    Return 0;
 }
 ```
 
-> 这是我投入时间最长 技术深度最高的项目
+项目入口：
 
-- **其他项目：**
-
-  - [QQSafeChat（最安全的 QQ 聊天机器人接入）](https://github.com/TheD0ubleC/QQSafeChat)
-  - [StickerSelector（为了 QQSafeChat 开发的表情包选取工具，外部也可接入此服务）](https://github.com/TheD0ubleC/StickerSelector)
-
-- **我有一只名叫 Rommy 的猫，真该谢谢她的，这是她的域名：**[Rommy.cat](rommy.cat)
-
-- **我正在学习的领域：** 数学算法（让文科生学数学？那你杀了我吧！）
-
-- **我会的领域：**
-
-  - Web 开发
-  - 编译原理
-  - UI/UX 设计
-  - 后端开发
-  - 还有更多就不细讲啦
-
-- 找到我的地方：
-
-  - QQ：2504214815
-  - WeChat：TheD0ubleC
-  - Instagram：@NyakoCyan
-
-- 你知道吗？我已经在这个世界上存在了**16 年！**2009 年出生！
+* 官网：[https://kinal.org](https://kinal.org)
+* 仓库：[https://github.com/Kinal-Lang/Kinal](https://github.com/Kinal-Lang/Kinal)
+* 组织：[https://github.com/Kinal-Lang](https://github.com/Kinal-Lang)
 
 ---
 
-## GitHub 数据中心
-
-### 持续记录
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TheD0ubleC" alt="GitHub Streak" />
-</p>
-
-### 最常使用的语言
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=TheD0ubleC" alt="Top Languages" />
-</p>
+## 一点点个人信息
+* 我的生日是2009年4月21日，我希望在那一天能收到一个修复项目所有问题的PR作为我的生日礼物！
+* Rommy 是我的猫，也是动力来源
+* 她的域名：[http://rommy.cat](http://rommy.cat)
+* “如果我想受苦，我就去学数学了”
 
 ---
 
-### 我会这些！
-
-![Flexia](https://img.shields.io/badge/Flexia-ff681f?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![VB](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 工具和框架
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) (用于 C#和 VB 开发)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) (版本控制)
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) (3D 游戏引擎)
-
-### 我还在学这些
-
-![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+## GitHub 数据
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hiii~;I'm YiYi" alt="Typing SVG" />
-</p>
+## 技术栈
